@@ -1,0 +1,6 @@
+time: 2018-07-29 18:33:11
+panic: runtime error: index out of range
+
+goroutine 1 [running]:
+main.main()
+	E:/WorkSpaceGo/src/hello/t.go:17 +0x24
